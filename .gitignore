@@ -1,0 +1,11 @@
+\#README.org#
+.cache/
+.org-id-locations
+README.pdf
+README.tex
+eln-cache/
+elpa/
+elpaca/
+eshell/
+init.el
+projects
